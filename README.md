@@ -1,2 +1,2 @@
 # hello-world
-this is a eg repositry
+this is the first time im commiting something
